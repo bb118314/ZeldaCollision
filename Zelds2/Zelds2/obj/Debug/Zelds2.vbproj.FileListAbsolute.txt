@@ -1,0 +1,14 @@
+C:\Users\bb118314\AppData\Local\Temporary Projects\Zelds2\bin\Debug\Zelds2.exe.config
+C:\Users\bb118314\AppData\Local\Temporary Projects\Zelds2\bin\Debug\Zelds2.exe
+C:\Users\bb118314\AppData\Local\Temporary Projects\Zelds2\bin\Debug\Zelds2.pdb
+C:\Users\bb118314\AppData\Local\Temporary Projects\Zelds2\bin\Debug\Zelds2.xml
+C:\Users\bb118314\AppData\Local\Temporary Projects\Zelds2\obj\Debug\Zelds2.Form1.resources
+C:\Users\bb118314\AppData\Local\Temporary Projects\Zelds2\obj\Debug\Zelds2.Resources.resources
+C:\Users\bb118314\AppData\Local\Temporary Projects\Zelds2\obj\Debug\Zelds2.vbproj.GenerateResource.Cache
+C:\Users\bb118314\AppData\Local\Temporary Projects\Zelds2\obj\Debug\Zelds2.exe
+C:\Users\bb118314\AppData\Local\Temporary Projects\Zelds2\obj\Debug\Zelds2.xml
+C:\Users\bb118314\AppData\Local\Temporary Projects\Zelds2\obj\Debug\Zelds2.pdb
+C:\Users\bb118314\Documents\Visual Studio 2013\Projects\Zelds2\Zelds2\bin\Debug\Zelds2.exe.config
+C:\Users\bb118314\Documents\Visual Studio 2013\Projects\Zelds2\Zelds2\obj\Debug\Zelds2.exe
+C:\Users\bb118314\Documents\Visual Studio 2013\Projects\Zelds2\Zelds2\obj\Debug\Zelds2.xml
+C:\Users\bb118314\Documents\Visual Studio 2013\Projects\Zelds2\Zelds2\obj\Debug\Zelds2.pdb
